@@ -1,0 +1,1 @@
+I couldn't find an online molar mass calculator so I decided to make one. Still REALLY need to clean it up, and add all the elements beyond Ne, but it works. Somewhat. I'll probably continue to update this when I'm bored in Chem workshops.
